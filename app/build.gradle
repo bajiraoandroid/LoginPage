@@ -6,12 +6,12 @@ ext {
 
     publishedGroupId = 'com.github.bajiraoandroid'
     libraryName = 'loginpage'
-    artifact = 'dev-pack'
+    artifact = 'login-page'
 
     libraryDescription = 'It is a library'
 
-    siteUrl = 'https://github.com/bajiraoandroid/myrepo'
-    gitUrl = 'https://github.com/bajiraoandroid/myrepo.git'
+    siteUrl = 'https://github.com/bajiraoandroid/LoginPage'
+    gitUrl = 'https://github.com/bajiraoandroid/LoginPage.git'
 
     libraryVersion = '1.0.1'
 
